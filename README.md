@@ -127,7 +127,8 @@ python pwtool.py --generate   --name "Alice Bob"   --pet "Rex"   --birth "1990" 
 ```bash
 python pwtool.py --gui
 ```
-
+#### Screenshot
+ ![GUI](Screenshots/Screenshot_2025-10-28_01_49_24.png)
 ---
 
 ## 📊 **Example Output**
