@@ -120,7 +120,7 @@ python pwtool.py --analyze 'P@ssw0rd2021!'
 python pwtool.py --generate   --name "Alice Bob"   --pet "Rex"   --birth "1990"   --years 2005-2024   -o mylist.txt --max 10000
 ```
 #### Screenshot
-(Command Line Interface(CLI)/Screenshot_2025-10-28_01_47_22.png)
+(Screenshots/Screenshot_2025-10-28_01_47_22.png)
 
 #### Start GUI mode
 
