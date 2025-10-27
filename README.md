@@ -1,4 +1,4 @@
-# Intern-Project
+# Intern-Main Project
 | Intern Project submission to elevate labs by Lekha Sri G |
 GitHub README.md file 👇
 
